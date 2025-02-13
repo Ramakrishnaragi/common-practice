@@ -1,4 +1,4 @@
-import boto
+import boto1
 
 from flask import *
 
