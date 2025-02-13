@@ -1,5 +1,5 @@
 
-import boto2
+import boto3
 
 from flask import *
 
